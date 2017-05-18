@@ -3,7 +3,7 @@
 
 ## Instructions
 
-Using the examples we shared in class and the template document, write a first draft of your scope of work. Do this in google docs, so you can share it with us and we can give you feedback right in the document.
+Using the examples we shared in class, the template document and the common technologies list, write a first draft of your scope of work. Do this in google docs, so you can share it with us and we can give you feedback right in the document.
 
 Do the following sections:
 
@@ -17,6 +17,7 @@ Do the following sections:
 Share the google doc with us and submit the link here. 
 
 ## Resources
-- [Template](https://docs.google.com/document/d/19I_XVyY0WbCmyhXmN5kJFSQOyQKQnoY2t7GGnjin8N4/edit#heading=h.x5497hm2698b)
-- [Examples](https://drive.google.com/drive/folders/0B13zFCnqgksYNGpaVGY1TGRzUDg?usp=sharing)
+- [Scope Template](https://docs.google.com/document/d/19I_XVyY0WbCmyhXmN5kJFSQOyQKQnoY2t7GGnjin8N4/edit#heading=h.x5497hm2698b)
+- [Scope Examples](https://drive.google.com/drive/folders/0B13zFCnqgksYNGpaVGY1TGRzUDg?usp=sharing)
+- [Common Solo Project Technologies](https://docs.google.com/document/d/1W3VgPf0uh5pcak1hthdx-yHFQbqHji3fpBykw9N1DY0/edit?usp=sharing)
 
