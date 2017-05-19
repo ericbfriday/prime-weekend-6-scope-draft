@@ -12,7 +12,6 @@ Do the following sections:
 	- Start thinking through your features. Write a description for each. No need for high fidelity mockups/wireframes for this draft, but having some visuals helps to understand how the application will work. Don't spend too much time making them look perfect, but maybe try hand drawing the first draft.
 - **Technologies**
 	- You might need to use a 3rd Party API or another node package to get all the functionality that you want. Do some research on these technologies. 
-	- Do a spike with these tools i.e. try the tool out. Come up with a simple example of how you might use it and write some code to do it. Play around with it to get practice using it on its own before pulling it into your project.
 
 Share the google doc with us and submit the link here. 
 
