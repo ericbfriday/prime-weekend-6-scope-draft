@@ -18,6 +18,6 @@ Share the google doc with us and submit the link here.
 
 ## Resources
 - [Scope Template](https://docs.google.com/document/d/19I_XVyY0WbCmyhXmN5kJFSQOyQKQnoY2t7GGnjin8N4/edit#heading=h.x5497hm2698b)
-- [Scope Examples](https://drive.google.com/drive/folders/0B13zFCnqgksYNGpaVGY1TGRzUDg?usp=sharing)
+- [Scope Examples](https://drive.google.com/drive/folders/0B13zFCnqgksYS2Q5WmVFTU5jN3M?usp=sharing)
 - [Common Solo Project Technologies](https://docs.google.com/document/d/1W3VgPf0uh5pcak1hthdx-yHFQbqHji3fpBykw9N1DY0/edit?usp=sharing)
 
