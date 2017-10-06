@@ -16,7 +16,7 @@ Do the following sections:
 Share the google doc with us and submit the link here. 
 
 ## Resources
-- [Scope Template](https://docs.google.com/a/primeacademy.io/document/d/10dqhI--GpNWi0xbY2wt5Uy51mY7HKO-uTY5fc4xoBrs/edit?usp=sharing)
+- [Scope Template](https://docs.google.com/document/d/17_pvy1iGLq-n9nTEbnxpjNLTFsbq_X-cBpTyCmLrpTw/edit?usp=sharing)
 - [Scope Examples](https://drive.google.com/drive/folders/0B13zFCnqgksYS2Q5WmVFTU5jN3M?usp=sharing)
 - [Common Solo Project Technologies](https://docs.google.com/document/d/1W3VgPf0uh5pcak1hthdx-yHFQbqHji3fpBykw9N1DY0/)
 
